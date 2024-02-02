@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @Dingleen
+- 👀 I’m interested in Video Games!
+- 🌱 I’m currently learning Cybersecurity!
+- 💞️ I’m looking to collaborate on any multimedia content that caters to my interests!
+- 📫 How to reach me: @discord [Dingleen#1773]
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I only started coding this year!
+
+<!---
+Dingleen/Dingleen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
